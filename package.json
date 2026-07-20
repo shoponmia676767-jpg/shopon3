@@ -1,0 +1,24 @@
+{
+  "name": "shopon3",
+  "version": "1.0.0",
+  "description": "সাবস্ক্রাইবার ম্যানেজমেন্ট সিস্টেম - Subscriber Management System",
+  "main": "handlers.ts",
+  "types": "types.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/handlers.js"
+  },
+  "keywords": [
+    "subscriber",
+    "billing",
+    "transaction",
+    "management",
+    "বাংলা",
+    "typescript"
+  ],
+  "author": "Shopon",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
